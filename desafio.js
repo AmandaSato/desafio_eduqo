@@ -28,7 +28,6 @@ function Piramide(n){
             linha[i] = "_"
         }
     }
-    console.log(linha.join(""))
 
     // Criando as camadas da pirâmide até a base:
     for(j = 0; j<n; j++){
