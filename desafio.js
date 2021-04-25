@@ -38,7 +38,7 @@ function Piramide(n){
 }
 
 // Altura da pirâmide:
-const n = 20;
+const n = 10;
 
 // Chamando a função:
 Piramide(n);
